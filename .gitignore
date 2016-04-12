@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Datasets
+data/
+
+# Submissions
+submissions/
